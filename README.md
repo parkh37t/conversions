@@ -51,6 +51,12 @@ npm run build
 npm run preview
 ```
 
+### GitHub Pages 배포
+이 프로젝트는 GitHub Actions를 통해 자동으로 배포됩니다.
+- URL: https://parkh37t.github.io/conversions/
+- 브랜치에 푸시하면 자동으로 빌드 및 배포가 진행됩니다.
+- GitHub Pages 설정에서 'GitHub Actions' 소스를 선택해야 합니다.
+
 ## 프로젝트 구조
 
 ```
